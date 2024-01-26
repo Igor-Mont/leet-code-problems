@@ -1,0 +1,24 @@
+{
+  "name": "leet-code-problems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Igor-Mont/leet-code-problems.git"
+  },
+  "keywords": [],
+  "author": "Igor-Mont",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Igor-Mont/leet-code-problems/issues"
+  },
+  "homepage": "https://github.com/Igor-Mont/leet-code-problems#readme",
+  "devDependencies": {
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}
